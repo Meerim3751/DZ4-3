@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.inputs {
+    padding-top: 180px;
+    text-align: center;
+}
+label {
+    font-size: 30px;
+}
+input {
+    height: 150px;
+    width: 400px;
+}
